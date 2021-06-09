@@ -1,0 +1,102 @@
+
+[generation]
+	#Generate Bee Queen hives in world?
+	beehive = true
+	#Generate Crystal Biome in world?
+	crystal_biome = true
+	#Spawn Cicadas in world?
+	cicadas = true
+	#Generate Dogs Lairs in world?
+	dogs = true
+	#Generate Blueberry in world?
+	blueberry = true
+	#Generate Sharp Leaves in world?
+	sharp_leaves = true
+	#Spawn Thunder Birds in world?
+	thunder_birds = true
+	#Spawn Terror Birds in world?
+	terror_birds = true
+	#Spawn Deers in world?
+	deers = true
+	#Spawn Deep rock in world?
+	deep_rock = true
+	#Spawn Night watchers while sleep?
+	night_watchers = true
+	#Spawn Gem Golems in world?
+	gem_golems = true
+	#Generate Spore Mushrooms in world?
+	spore_mush = true
+	#Spawn Spore Zombie in world?
+	spore_zombie = true
+	#Generate Snowberries in world?
+	snowberry = true
+	#Generate Fossils in desert?
+	fossil = true
+	#Generate Bones in desert?
+	bones = true
+	#Generate Light Bulbs in caves?
+	light_bulbs = true
+	#Generate Dandelion Hills?
+	dandelion_hills = true
+	#Generate Dandelions?
+	dandelions = true
+	#Generate Dandelion Fields?
+	dandelion_fields = true
+	#Generate Iguana King Nests?
+	iguana_king_nests = true
+	#Spawn Crocus Flowers?
+	crocus_flowers = true
+	#Spawn Krocks?
+	krocks = true
+	#Spawn Bakudans?
+	bakudans = true
+	#Generate Sea Sponges?
+	sea_sponges = true
+	#Spawn Air Suckers?
+	air_suckers = true
+	#Generate Niter Ores?
+	niter_ores = true
+	#Generate Sulfur Ores?
+	sulfur_ores = true
+	#Spawn Sky Fragments?
+	sky_fragments = true
+	#Generate Dirt Piles?
+	dirt_piles = true
+	#Generate Mesa Piles?
+	mesa_piles = true
+	#How often Crystal Biome will spawn?
+	#Range: 1 ~ 100
+	crystal_biome_rarity = 30
+	#How often Cicadas will spawn?
+	#Range: 1 ~ 100
+	cicadas_rarity = 10
+	#How often Desert Bones will spawn?
+	#Range: 1 ~ 100
+	desert_bones_rarity = 50
+	#How often Fossil will spawn?
+	#Range: 1 ~ 100
+	fossil_rarity = 50
+	#Min distance in chunk between dogs lairs
+	#Range: 1 ~ 16
+	dogs_lair_min = 4
+	#Max distance in chunk between dogs lairs
+	#Range: 1 ~ 16
+	dogs_lair_max = 8
+	#How often sky fragments will fall?
+	#Range: 1 ~ 100
+	sky_fragment_rarity = 5
+	#How ofter spore mushrooms will spawn?
+	#Range: 1 ~ 16
+	spore_mush_rarity = 4
+	#How often night watchers will spawn?
+	#Range: 1 ~ 100
+	night_watchers_rarity = 5
+
+[mechanics]
+	#Enable default flint and steel open portal
+	flint_and_steel = false
+	#Disable new fishing system and fishes
+	default_fishing = false
+	#Disable bait requirement in fishing
+	need_bait = true
+

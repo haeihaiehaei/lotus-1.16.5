@@ -1,0 +1,36 @@
+
+["Weapon Settings"]
+	#Range: 0 ~ 1000
+	"Range between Lowest and Highest Rank on the Weapon: " = 6
+	#Range: 0 ~ 1000
+	"Range between Lowest and Highest Socket Count on the Weapon: " = 6
+
+["Chest Settings - Lower Values mean better Drop Rates"]
+	"Cold Steel Chest can drop: " = true
+	#Range: 0 ~ 10000
+	"Cold Steel Chest Drop Rate: " = 200
+	"Cold Steel Diamond Case can drop: " = true
+	#Range: 0 ~ 10000
+	"Cold Steel Diamond Case Drop Rate: " = 300
+	"Lightsaber Case can drop: " = true
+	#Range: 0 ~ 10000
+	"Lightsaber Case Drop Rate: " = 500
+	"Poseidon's Gift can drop: " = true
+	#Range: 0 ~ 10000
+	"Poseidon's Gift Drop Rate: " = 150
+	"Poseidon's Gift can drop while Fishing: " = true
+	#Range: 0 ~ 10000
+	"Poseidon's Gift Drop Rate from Fishing: " = 150
+
+["Trade Settings"]
+	"Wandering Trade can trade Cold Steel Items: " = true
+	"Toolsmith can trade Cold Steel Items: " = true
+	"Fletcher Trade can trade Cold Steel Items: " = true
+	"Weaponsmith Trade can trade Cold Steel Items: " = true
+	"Butcher Trade can trade Cold Steel Items: " = true
+	"Cleric Trade can trade Cold Steel Items: " = true
+	"Fisherman Trade can trade Cold Steel Items: " = true
+	"Librarian Trade can trade Cold Steel Items: " = true
+	"Armorer Trade can trade Cold Steel Items: " = true
+	"Masonry Trade can trade Cold Steel Items: " = true
+

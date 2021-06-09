@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "haeihaeihaei",
+      "uniqueId": "bdcf3c90-60a1-40f1-b734-d9026eca4d62"
+    },
+    "time": 1623057919321,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wibUasugKQ"
+    }
+  }
+]
