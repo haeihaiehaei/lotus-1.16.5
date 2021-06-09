@@ -1,4 +1,4 @@
-# LOTUS modpack for 1.16.5 Forge
+# modpack for 1.16.5 Forge
 Source for my 1.16.5 modpack that is under development.
 
 Small kitchen sink pack made for me and my friends but will be shared with others. It will contain a major range of different mods, both technic and magical. A lot of effort has been put into the overworld! There is a bunch of different dimensions to visit and tons of stuff to do. Stay tuned!
